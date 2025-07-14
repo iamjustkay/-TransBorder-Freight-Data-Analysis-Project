@@ -63,7 +63,7 @@ Initial data cleaning was performed to handle missing values, normalize data for
 * Heavy shipments (>20 tons) are more common in sea and rail transport, suggesting optimal mode selection based on weight.
 
 ### Geographic Insights
-* High-volume corridors include major cities and ports (e.g., Hamburg, Rotterdam, Milan).
+* High-volume corridors include major cities and ports.
 * A notable clustering of shipments was observed around central logistics hubs, suggesting strategic network positioning.
 
 ### Transport Efficiency

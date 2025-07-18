@@ -2,6 +2,7 @@
  TransBorder Freight Data Analysis Project
 
 **Project Overview**
+
 This project analyzes cross-border freight transportation data provided by the U.S. Bureau of Transportation Statistics (BTS) using the CRISP-DM methodology. The goal is to uncover insights into freight movement, identify inefficiencies, and provide actionable recommendations on safety, environmental impact, and economic disruptions.
 
 ## 📌 Objectives

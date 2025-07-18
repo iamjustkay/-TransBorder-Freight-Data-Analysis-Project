@@ -32,12 +32,14 @@ This project analyzes cross-border freight transportation data provided by the U
 ---
 
 ## Executive Summary
-This report presents a comprehensive analysis of freight transport data with the goal of identifying trends, operational efficiencies, and areas for improvement. The analysis focuses on shipment volumes, weight distributions, transportation modes, and geographical shipping patterns. Insights derived from this study can support strategic decision-making for logistics optimization, resource allocation, and environmental planning.
+This report presents a multi-year analysis of freight transport data with a focus on temporal trends, transport mode efficiencies, shipment characteristics, and geographic flows. Using Python-based tools, the data is evaluated across several years to identify performance improvements, inefficiencies, and strategic opportunities. The insights help stakeholders better understand how freight transport patterns evolve over time, enabling smarter decisions around infrastructure, cost management, and sustainability.
 
 ## Introduction
-Freight transport plays a vital role in supply chain management. Analyzing historical data provides actionable insights into improving logistics operations. This analysis was conducted on a dataset containing information on shipments, including origin-destination pairs, transport modes, distances, weights, and other logistics parameters.
+Understanding how freight logistics change over time is essential for planning future transport networks, managing costs, and achieving sustainability goals. This report analyzes freight transport data across multiple years to uncover variations in shipment volumes, mode utilization, geographic distribution, and cost efficiency. The analysis uses visualization and statistical techniques implemented in Python to provide a clear understanding of how logistics patterns shift year-over-year.
 
 ## Data Overview
+Dataset Composition:
+Years Covered: 2020 to 2024
 The dataset includes the following key variables:
 
 * Origin and Destination (city/country)
